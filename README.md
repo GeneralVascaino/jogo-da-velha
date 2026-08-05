@@ -1,2 +1,2 @@
 # jogo-da-velha
-Projeto da escola Jogo da velha python jogo
+alunos Dias e Erick Ferreira para professora Maria José
